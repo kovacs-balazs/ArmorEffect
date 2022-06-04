@@ -1,0 +1,5 @@
+name: ArmorEffect
+version: '${project.version}'
+main: me.koba1.armoreffect.Main
+authors: [ kboa1 ]
+description: Armor effects
